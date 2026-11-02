@@ -6,4 +6,5 @@
 ## Day-2
 2nd November,
 Today I figured how it will look and work. First i added all components needed it to work i got everything from **amazon** but first i have to design its 3D model for which i will be using **OnShape** to make the 3D models and i have collected everything i need i have prepared the BOM photos.
-Time spent- 2 to 1.5 hours (preparing Goshape, finding components, and learning to use GoShape)
+
+**Time spent**- 2 to 1.5 hours (preparing Goshape, finding components, and learning to use GoShape)
